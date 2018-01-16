@@ -49,9 +49,9 @@
 </style>
 
 <div class="dropdown">
+ /* I want the dropdown options to pull from a colomun in a spread sheet */
   <button class="dropbtn">Sku#</button>
   <div class="dropdown-content">
-  /* I want the links to pull from all selections in a colomun on a spread sheet */
     <a href="#">sku</a>
    
   </div>
