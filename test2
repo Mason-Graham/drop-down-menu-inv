@@ -51,8 +51,8 @@
 <div class="dropdown">
   <button class="dropbtn">Sku#</button>
   <div class="dropdown-content">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
+  /* I want the links to pull from all selections in a colomun on a spread sheet */
+    <a href="#">sku</a>
+   
   </div>
 </div>
